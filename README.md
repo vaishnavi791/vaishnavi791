@@ -6,23 +6,19 @@
 ###  I'm Learning:
 - Java ☕︎
 - JavaScript  **JS**
-- React.js  ⚛
+- React.js  ❀
 - UI & UX Design  ▯
 
 ---
 
 ###  Projects
-🖋[My Journal] — Notes + Audio Journal App (i made this thinking i can yap as well as write note at one place)
+🖋[My Journal] — Notes + Audio Journal App 
 
-🍓[FreshInsights](#) — 
+🍓[FreshInsights] — ML project that will predict freshness of fruit
 
 ---
 ### 🎐LeetCode Progress
 [LeetCode Profile](https://leetcode.com/u/vaishnavileet-22/)
-
----
-
-<img src="https://i.pinimg.com/originals/6a/c7/80/6ac780f0649e8e2497148d50edf432c3.gif" width="300"/>
 
 ---
 
