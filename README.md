@@ -12,7 +12,7 @@
 ---
 
 ###  Projects
-🖋[My Journal] — Notes + Audio Journal App 
+🖋[Geet] — React.js based music player.
 
 🍓[FreshInsights] — ML project that will predict freshness of fruit
 
