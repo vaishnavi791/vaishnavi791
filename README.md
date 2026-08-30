@@ -5,16 +5,17 @@
 
 ###  I'm Learning:
 - Java ☕︎
-- JavaScript  **JS**
+- AI/ML 'w'
 - React.js  ❀
-- UI & UX Design  ▯
+
 
 ---
 
 ###  Projects
-🖋[Geet] — React.js based music player.
+🖋[E-Commerce-Backend-System]
+🖋[AI-Based-Industrial-Maintenance-and-Process-Optimization-System]
+🖋[expenseTracker]
 
-🍓[FreshInsights] — ML project that will predict freshness of fruit
 
 ---
 ### 🎐LeetCode Progress
